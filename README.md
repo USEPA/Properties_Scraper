@@ -1,7 +1,7 @@
 # CAMEO Scraper
 
 <p align="center">
-  <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="50%">
+  <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="20%">
 </p>
 
 This is a Python script to gather information about the **National Fire Protection Association (NFPA) 704** for hazardous chemicals from CAMEO database.
