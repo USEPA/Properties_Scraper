@@ -1,0 +1,14 @@
+web_sites:
+  CAMEO:
+    url: https://cameochemicals.noaa.gov/search/simple
+    queries:
+      cas_searching_bar: //input[@name="cas"]
+      cas_buttton: //input[@value="Search CAS Number"]
+      search_result: //div[@class="mainbody"]/h1
+      pages: //div[@class="navigator"]
+      links: //div[@class="result chemical-result"]/a[@class="match_name"]
+      table: //table[@class="gridded nfpa"]
+      hazard: //tr/td[@class="hazard"]
+      value: //tr/td[@class="value"]
+      description: //tr/td[@class="description"]
+      new_search: //div[@id="sidebar"]/a[contains(text(),"New Search")]
