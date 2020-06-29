@@ -8,7 +8,7 @@ This is a Python script to gather information about the **National Fire Protecti
 
 ## Requirements
 
-In order to use this code you kneed the following requirements:
+In order to use this code you need the following requirements:
 
 1. Google Chrome installed in your computer. However, you can modify the code and use other selenium driver (e.g., Firefox)
 2. A .csv with a column named as CAS NUMBER
