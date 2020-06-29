@@ -29,3 +29,14 @@ The inputs accompanying the flags represent:
 
    - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching.
    - *file_path_to_save_infomartion*: path of the file where you will save the information.
+
+## Output
+
+You will obtain a .csv file with the following columns:
+
+| Column name | Description |
+| ------------- | ------------- |
+| CAS | CAS number for the chemical |
+| HAZARD | Based on NFPA system (e.g., fire hazard) |
+| VALUE | Value in the numbering scale ranging from 0 to 4 |
+| DESCRIPTION | Explanation about the value (e.g., may detonate) |
