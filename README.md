@@ -37,7 +37,7 @@ The inputs accompanying the flags represent:
    - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching (except for OSHA database).
    - *file_path_to_save_infomartion*: path of the file where you will save the information.
    
-The positional argument Option has currently the following values:
+The positional argument *Option* has currently the following values:
 
   - A: for runing OSHA_Scraper.py.
   - B: for runing CAMEO_Scrape.py.
