@@ -1,0 +1,42 @@
+web_sites:
+  CAMEO:
+    url: https://cameochemicals.noaa.gov/search/simple
+    queries:
+      cas_searching_bar: //input[@name="cas"]
+      cas_buttton: //input[@value="Search CAS Number"]
+      search_result: //div[@class="mainbody"]/h1
+      pages: //div[@class="navigator"]
+      links: //div[@class="result chemical-result"]/a[@class="match_name"]
+      table: //table[@class="gridded nfpa"]
+      hazard: //tr/td[@class="hazard"]
+      value: //tr/td[@class="value"]
+      description: //tr/td[@class="description"]
+      new_search: //div[@id="sidebar"]/a[contains(text(),"New Search")]
+      next: //span[@class="spaced navigator-button"]/a[contains(text(),'Next')]
+  OSHA:
+    url: https://www.osha.gov/chemicaldata/
+    queries:
+      main_table: //table[@id="resultsTable"]
+      links: ./tbody/tr/td/a[@class="reportLink"]
+      body_result: //div[@id="chemResultTables"]
+      chemical_name: ./h3/strong
+      specific_tables: ./div[@class="table-responsive"]/table[@class="table table-bordered"]
+      cas_number: ./tbody/tr/child::td[2]
+      Physical:
+        Molecular weight: ./tbody/child::tr[2]/child::td[4]
+        Lower explosive limit (LEL): ./tbody/child::tr[6]/child::td[2]
+        Upper explosive limit (UEL): ./tbody/child::tr[6]/child::td[4]
+        NFPA health rating: ./tbody/child::tr[7]/child::td[2]
+        NFPA fire rating: ./tbody/child::tr[7]/child::td[4]
+        NFPA reactivity rating: ./tbody/child::tr[8]/child::td[2]
+        NFPA special instruction: ./tbody/child::tr[8]/child::td[4]
+      Exposure:
+        OSHA TWA: ./tbody/child::tr[2]/child::td[2]
+        NIOSH TWA: ./tbody/child::tr[2]/child::td[4]
+        ACGIH TWA: ./tbody/child::tr[2]/child::td[6]
+        Cal/OSHA TWA: ./tbody/child::tr[2]/child::td[8]
+        OSHA STEL: ./tbody/child::tr[3]/child::td[2]
+        NIOSH STEL: ./tbody/child::tr[3]/child::td[4]
+        ACGIH STEL: ./tbody/child::tr[3]/child::td[6]
+        Cal/OSHA STEL: ./tbody/child::tr[3]/child::td[8]
+        IDLH: ./tbody/child::tr[7]/child::td[3]

@@ -1,0 +1,16 @@
+Physical,Molecular weight
+Physical,Lower explosive limit (LEL)
+Physical,Upper explosive limit (UEL)
+Physical,NFPA health rating
+Physical,NFPA fire rating
+Physical,NFPA reactivity rating
+Physical,NFPA special instruction
+Exposure,OSHA TWA
+Exposure,NIOSH TWA
+Exposure,ACGIH TWA
+Exposure,Cal/OSHA TWA
+Exposure,OSHA STEL
+Exposure,NIOSH STEL
+Exposure,ACGIH STEL
+Exposure,Cal/OSHA STEL
+Exposure,IDLH
