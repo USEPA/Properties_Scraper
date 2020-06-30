@@ -1,4 +1,2 @@
-/CAMEO/NFP.csv
-/OSHA/OSHA.csv
 /home/jose-d-hernandez/Documents/Properties_scraper/CAMEO/NFP.csv filter=lfs diff=lfs merge=lfs -text
 /home/jose-d-hernandez/Documents/Properties_scraper/OSHA/OSHA.csv filter=lfs diff=lfs merge=lfs -text
