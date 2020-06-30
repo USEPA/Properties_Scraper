@@ -63,7 +63,7 @@ class CAMEO_Scraper:
         self._browser.close()
         df_result['DATE CONSULTED'] = self._now
         if self._existing:
-            df_result.to_csv(self.file_save, index = False, mode = 'a', sep = ',')
+            df_result.to_csv(self.file_save, index = False, mode = 'a', sep = ',', header = False)
         else:
             df_result.to_csv(self.file_save, index = False, sep = ',')
 
