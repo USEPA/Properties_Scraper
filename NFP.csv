@@ -1,1 +1,967 @@
-
+CAS NUMBER,DESCRIPTION,HAZARD,VALUE
+98953,Can cause serious or permanent injury.,Health,3
+98953,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+98953,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+98953,,Special,
+98884,Can cause serious or permanent injury.,Health,3
+98884,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+98884,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+98884,Reacts violently or explosively with water.,Special,W
+98862,Can cause temporary incapacitation or residual injury.,Health,2
+98862,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+98862,"Normally stable, even under fire conditions.",Instability,0
+98862,,Special,
+98828,Can cause temporary incapacitation or residual injury.,Health,2
+98828,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+98828,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+98828,,Special,
+98077,Can be lethal.,Health,4
+98077,Must be preheated before ignition can occur.,Flammability,1
+98077,"Normally stable, even under fire conditions.",Instability,0
+98077,,Special,
+96333,Can cause serious or permanent injury.,Health,3
+96333,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+96333,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+96333,,Special,
+96184,Can cause temporary incapacitation or residual injury.,Health,2
+96184,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+96184,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+96184,,Special,
+96093,Can cause significant irritation.,Health,1
+96093,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+96093,"Normally stable, even under fire conditions.",Instability,0
+96093,,Special,
+95636,Can cause significant irritation.,Health,1
+95636,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+95636,"Normally stable, even under fire conditions.",Instability,0
+95636,,Special,
+95578,Can cause temporary incapacitation or residual injury.,Health,2
+95578,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+95578,"Normally stable, even under fire conditions.",Instability,0
+95578,,Special,
+95545,Can cause serious or permanent injury.,Health,3
+95545,Must be preheated before ignition can occur.,Flammability,1
+95545,"Normally stable, even under fire conditions.",Instability,0
+95545,,Special,
+95534,Can cause serious or permanent injury.,Health,3
+95534,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+95534,"Normally stable, even under fire conditions.",Instability,0
+95534,,Special,
+95501,Can cause temporary incapacitation or residual injury.,Health,2
+95501,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+95501,"Normally stable, even under fire conditions.",Instability,0
+95501,,Special,
+95487,Can cause serious or permanent injury.,Health,3
+95487,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+95487,"Normally stable, even under fire conditions.",Instability,0
+95487,,Special,
+95476,Can cause temporary incapacitation or residual injury.,Health,2
+95476,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+95476,"Normally stable, even under fire conditions.",Instability,0
+95476,,Special,
+94597,Can cause significant irritation.,Health,1
+94597,Must be preheated before ignition can occur.,Flammability,1
+94597,"Normally stable, even under fire conditions.",Instability,0
+94597,,Special,
+92524,Can cause significant irritation.,Health,1
+92524,Must be preheated before ignition can occur.,Flammability,1
+92524,"Normally stable, even under fire conditions.",Instability,0
+92524,,Special,
+91225,Can cause serious or permanent injury.,Health,3
+91225,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+91225,"Normally stable, even under fire conditions.",Instability,0
+91225,,Special,
+91203,Can cause temporary incapacitation or residual injury.,Health,2
+91203,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+91203,"Normally stable, even under fire conditions.",Instability,0
+91203,,Special,
+90481042,Can cause serious or permanent injury.,Health,3
+90481042,Must be preheated before ignition can occur.,Flammability,1
+90481042,"Normally stable, even under fire conditions.",Instability,0
+90481042,,Special,
+90437,Can cause serious or permanent injury.,Health,3
+90437,Must be preheated before ignition can occur.,Flammability,1
+90437,"Normally stable, even under fire conditions.",Instability,0
+90437,,Special,
+88891,Can cause serious or permanent injury.,Health,3
+88891,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+88891,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+88891,,Special,
+87865,Can cause serious or permanent injury.,Health,3
+87865,Will not burn under typical fire conditions.,Flammability,0
+87865,"Normally stable, even under fire conditions.",Instability,0
+87865,,Special,
+87683,Can cause serious or permanent injury.,Health,3
+87683,Must be preheated before ignition can occur.,Flammability,1
+87683,"Normally stable, even under fire conditions.",Instability,0
+87683,,Special,
+872504,Can cause temporary incapacitation or residual injury.,Health,2
+872504,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+872504,"Normally stable, even under fire conditions.",Instability,0
+872504,,Special,
+85687,Can cause significant irritation.,Health,1
+85687,Must be preheated before ignition can occur.,Flammability,1
+85687,"Normally stable, even under fire conditions.",Instability,0
+85687,,Special,
+85449,Can cause temporary incapacitation or residual injury.,Health,2
+85449,Must be preheated before ignition can occur.,Flammability,1
+85449,"Normally stable, even under fire conditions.",Instability,0
+85449,,Special,
+85018,Can cause significant irritation.,Health,1
+85018,Must be preheated before ignition can occur.,Flammability,1
+85018,"Normally stable, even under fire conditions.",Instability,0
+85018,,Special,
+84852153,Can cause serious or permanent injury.,Health,3
+84852153,Must be preheated before ignition can occur.,Flammability,1
+84852153,"Normally stable, even under fire conditions.",Instability,0
+84852153,,Special,
+84742,Can cause temporary incapacitation or residual injury.,Health,2
+84742,Must be preheated before ignition can occur.,Flammability,1
+84742,"Normally stable, even under fire conditions.",Instability,0
+84742,,Special,
+84662,Can cause significant irritation.,Health,1
+84662,Must be preheated before ignition can occur.,Flammability,1
+84662,"Normally stable, even under fire conditions.",Instability,0
+84662,,Special,
+80626,Can cause temporary incapacitation or residual injury.,Health,2
+80626,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+80626,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+80626,,Special,
+80159,Can cause significant irritation.,Health,1
+80159,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+80159,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+80159,Possesses oxidizing properties.,Special,OX
+8001589,Can cause temporary incapacitation or residual injury.,Health,2
+8001589,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+8001589,"Normally stable, even under fire conditions.",Instability,0
+8001589,,Special,
+79469,Can cause serious or permanent injury.,Health,3
+79469,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+79469,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+79469,,Special,
+79210,Can cause serious or permanent injury.,Health,3
+79210,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+79210,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+79210,Possesses oxidizing properties.,Special,OX
+79118,Can be lethal.,Health,4
+79118,Must be preheated before ignition can occur.,Flammability,1
+79118,"Normally stable, even under fire conditions.",Instability,0
+79118,,Special,
+79107,Can cause serious or permanent injury.,Health,3
+79107,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+79107,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+79107,,Special,
+79061,Can cause temporary incapacitation or residual injury.,Health,2
+79061,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+79061,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+79061,,Special,
+79016,Can cause temporary incapacitation or residual injury.,Health,2
+79016,Must be preheated before ignition can occur.,Flammability,1
+79016,"Normally stable, even under fire conditions.",Instability,0
+79016,,Special,
+79005,Can cause temporary incapacitation or residual injury.,Health,2
+79005,Must be preheated before ignition can occur.,Flammability,1
+79005,"Normally stable, even under fire conditions.",Instability,0
+79005,,Special,
+78933,Can cause significant irritation.,Health,1
+78933,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+78933,"Normally stable, even under fire conditions.",Instability,0
+78933,,Special,
+78922,Can cause temporary incapacitation or residual injury.,Health,2
+78922,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+78922,"Normally stable, even under fire conditions.",Instability,0
+78922,,Special,
+78886,Can cause serious or permanent injury.,Health,3
+78886,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+78886,"Normally stable, even under fire conditions.",Instability,0
+78886,,Special,
+78875,Can cause temporary incapacitation or residual injury.,Health,2
+78875,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+78875,"Normally stable, even under fire conditions.",Instability,0
+78875,,Special,
+78842,Can cause temporary incapacitation or residual injury.,Health,2
+78842,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+78842,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+78842,,Special,
+78795,Can cause significant irritation.,Health,1
+78795,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+78795,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+78795,,Special,
+7803512,Can be lethal.,Health,4
+7803512,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+7803512,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7803512,,Special,
+7789095,Can cause temporary incapacitation or residual injury.,Health,2
+7789095,Must be preheated before ignition can occur.,Flammability,1
+7789095,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7789095,Possesses oxidizing properties.,Special,OX
+7784421,Can be lethal.,Health,4
+7784421,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+7784421,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7784421,,Special,
+7784341,Can cause serious or permanent injury.,Health,3
+7784341,Will not burn under typical fire conditions.,Flammability,0
+7784341,"Normally stable, even under fire conditions.",Instability,0
+7784341,,Special,
+7783702,Can be lethal.,Health,4
+7783702,Will not burn under typical fire conditions.,Flammability,0
+7783702,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7783702,,Special,
+7783064,Can be lethal.,Health,4
+7783064,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+7783064,"Normally stable, even under fire conditions.",Instability,0
+7783064,,Special,
+7782505,Can be lethal.,Health,4
+7782505,Will not burn under typical fire conditions.,Flammability,0
+7782505,"Normally stable, even under fire conditions.",Instability,0
+7782505,Possesses oxidizing properties.,Special,OX
+7782414,Can be lethal.,Health,4
+7782414,Will not burn under typical fire conditions.,Flammability,0
+7782414,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+7782414,"Reacts violently or explosively with water.
+Possesses oxidizing properties.",Special,"W
+OX"
+77781,Can be lethal.,Health,4
+77781,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+77781,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+77781,,Special,
+77736,Can cause serious or permanent injury.,Health,3
+77736,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+77736,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+77736,,Special,
+7726956,Can cause serious or permanent injury.,Health,3
+7726956,Will not burn under typical fire conditions.,Flammability,0
+7726956,"Normally stable, even under fire conditions.",Instability,0
+7726956,Possesses oxidizing properties.,Special,OX
+7723140,Can be lethal.,Health,4
+7723140,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+7723140,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7723140,,Special,
+7697372,Can be lethal.,Health,4
+7697372,Will not burn under typical fire conditions.,Flammability,0
+7697372,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7697372,Possesses oxidizing properties.,Special,OX
+7664939,Can be lethal.,Health,4
+7664939,Will not burn under typical fire conditions.,Flammability,0
+7664939,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7664939,Reacts violently or explosively with water.,Special,W
+7664417,Can cause serious or permanent injury.,Health,3
+7664417,Must be preheated before ignition can occur.,Flammability,1
+7664417,"Normally stable, even under fire conditions.",Instability,0
+7664417,,Special,
+7664393,Can be lethal.,Health,4
+7664393,Will not burn under typical fire conditions.,Flammability,0
+7664393,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7664393,,Special,
+7664382,Can cause serious or permanent injury.,Health,3
+7664382,Will not burn under typical fire conditions.,Flammability,0
+7664382,"Normally stable, even under fire conditions.",Instability,0
+7664382,,Special,
+7647010,Can cause serious or permanent injury.,Health,3
+7647010,Will not burn under typical fire conditions.,Flammability,0
+7647010,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7647010,,Special,
+7637072,Can be lethal.,Health,4
+7637072,Will not burn under typical fire conditions.,Flammability,0
+7637072,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7637072,,Special,
+7632511,Can cause serious or permanent injury.,Health,3
+7632511,Will not burn under typical fire conditions.,Flammability,0
+7632511,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7632511,Reacts violently or explosively with water.,Special,W
+76062,Can be lethal.,Health,4
+76062,Will not burn under typical fire conditions.,Flammability,0
+76062,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+76062,,Special,
+75865,Can be lethal.,Health,4
+75865,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+75865,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+75865,,Special,
+75683,Can cause temporary incapacitation or residual injury.,Health,2
+75683,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75683,"Normally stable, even under fire conditions.",Instability,0
+75683,,Special,
+75650,Can cause temporary incapacitation or residual injury.,Health,2
+75650,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+75650,"Normally stable, even under fire conditions.",Instability,0
+75650,,Special,
+75569,Can cause serious or permanent injury.,Health,3
+75569,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75569,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+75569,,Special,
+75525,Can cause temporary incapacitation or residual injury.,Health,2
+75525,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+75525,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+75525,,Special,
+7550450,Can cause serious or permanent injury.,Health,3
+7550450,Will not burn under typical fire conditions.,Flammability,0
+7550450,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+7550450,Reacts violently or explosively with water.,Special,W
+75445,Can be lethal.,Health,4
+75445,Will not burn under typical fire conditions.,Flammability,0
+75445,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+75445,,Special,
+75354,Can be lethal.,Health,4
+75354,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75354,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+75354,,Special,
+75343,Can cause significant irritation.,Health,1
+75343,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+75343,"Normally stable, even under fire conditions.",Instability,0
+75343,,Special,
+75218,Can cause serious or permanent injury.,Health,3
+75218,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75218,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+75218,,Special,
+75150,Can cause serious or permanent injury.,Health,3
+75150,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75150,"Normally stable, even under fire conditions.",Instability,0
+75150,,Special,
+75092,Can cause temporary incapacitation or residual injury.,Health,2
+75092,Must be preheated before ignition can occur.,Flammability,1
+75092,"Normally stable, even under fire conditions.",Instability,0
+75092,,Special,
+75070,Can cause temporary incapacitation or residual injury.,Health,2
+75070,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75070,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+75070,,Special,
+75058,Can cause temporary incapacitation or residual injury.,Health,2
+75058,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+75058,"Normally stable, even under fire conditions.",Instability,0
+75058,,Special,
+75014,Can cause temporary incapacitation or residual injury.,Health,2
+75014,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75014,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+75014,,Special,
+75003,Can cause temporary incapacitation or residual injury.,Health,2
+75003,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+75003,"Normally stable, even under fire conditions.",Instability,0
+75003,,Special,
+74908,Can be lethal.,Health,4
+74908,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+74908,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+74908,,Special,
+74873,Can cause temporary incapacitation or residual injury.,Health,2
+74873,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+74873,"Normally stable, even under fire conditions.",Instability,0
+74873,,Special,
+74851,Can cause temporary incapacitation or residual injury.,Health,2
+74851,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+74851,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+74851,,Special,
+74839,Can cause serious or permanent injury.,Health,3
+74839,Must be preheated before ignition can occur.,Flammability,1
+74839,"Normally stable, even under fire conditions.",Instability,0
+74839,,Special,
+7440417,Can cause serious or permanent injury.,Health,3
+7440417,Must be preheated before ignition can occur.,Flammability,1
+7440417,"Normally stable, even under fire conditions.",Instability,0
+7440417,,Special,
+7440020,Can cause temporary incapacitation or residual injury.,Health,2
+7440020,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+7440020,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7440020,,Special,
+7429905,No hazard beyond that of ordinary combustible material.,Health,0
+7429905,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+7429905,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+7429905,,Special,
+71556,Can cause temporary incapacitation or residual injury.,Health,2
+71556,Must be preheated before ignition can occur.,Flammability,1
+71556,"Normally stable, even under fire conditions.",Instability,0
+71556,,Special,
+71432,Can cause temporary incapacitation or residual injury.,Health,2
+71432,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+71432,"Normally stable, even under fire conditions.",Instability,0
+71432,,Special,
+71363,Can cause temporary incapacitation or residual injury.,Health,2
+71363,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+71363,"Normally stable, even under fire conditions.",Instability,0
+71363,,Special,
+68122,Can cause temporary incapacitation or residual injury.,Health,2
+68122,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+68122,"Normally stable, even under fire conditions.",Instability,0
+68122,,Special,
+67663,Can cause temporary incapacitation or residual injury.,Health,2
+67663,Will not burn under typical fire conditions.,Flammability,0
+67663,"Normally stable, even under fire conditions.",Instability,0
+67663,,Special,
+67641,Can cause significant irritation.,Health,1
+67641,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+67641,"Normally stable, even under fire conditions.",Instability,0
+67641,,Special,
+67630,Can cause significant irritation.,Health,1
+67630,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+67630,"Normally stable, even under fire conditions.",Instability,0
+67630,,Special,
+67561,Can cause significant irritation.,Health,1
+67561,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+67561,"Normally stable, even under fire conditions.",Instability,0
+67561,,Special,
+6484522,No hazard beyond that of ordinary combustible material.,Health,0
+6484522,Will not burn under typical fire conditions.,Flammability,0
+6484522,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+6484522,Possesses oxidizing properties.,Special,OX
+64675,Can cause serious or permanent injury.,Health,3
+64675,Must be preheated before ignition can occur.,Flammability,1
+64675,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+64675,,Special,
+64186,Can cause serious or permanent injury.,Health,3
+64186,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+64186,"Normally stable, even under fire conditions.",Instability,0
+64186,,Special,
+62737,Can cause serious or permanent injury.,Health,3
+62737,Must be preheated before ignition can occur.,Flammability,1
+62737,,Instability,
+62737,,Special,
+62533,Can cause serious or permanent injury.,Health,3
+62533,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+62533,"Normally stable, even under fire conditions.",Instability,0
+62533,,Special,
+624839,Can be lethal.,Health,4
+624839,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+624839,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+624839,Reacts violently or explosively with water.,Special,W
+62384,Can cause serious or permanent injury.,Health,3
+62384,Must be preheated before ignition can occur.,Flammability,1
+62384,"Normally stable, even under fire conditions.",Instability,0
+62384,,Special,
+61789513,Can cause significant irritation.,Health,1
+61789513,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+61789513,"Normally stable, even under fire conditions.",Instability,0
+61789513,,Special,
+60344,Can be lethal.,Health,4
+60344,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+60344,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+60344,,Special,
+593602,Can cause temporary incapacitation or residual injury.,Health,2
+593602,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+593602,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+593602,,Special,
+592018,Can cause serious or permanent injury.,Health,3
+592018,Will not burn under typical fire conditions.,Flammability,0
+592018,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+592018,,Special,
+584849,Can cause serious or permanent injury.,Health,3
+584849,Must be preheated before ignition can occur.,Flammability,1
+584849,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+584849,,Special,
+57578,No hazard beyond that of ordinary combustible material.,Health,0
+57578,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+57578,"Normally stable, even under fire conditions.",Instability,0
+57578,,Special,
+57147,Can be lethal.,Health,4
+57147,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+57147,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+57147,,Special,
+563473,Can cause significant irritation.,Health,1
+563473,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+563473,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+563473,,Special,
+56235,Can cause serious or permanent injury.,Health,3
+56235,Will not burn under typical fire conditions.,Flammability,0
+56235,"Normally stable, even under fire conditions.",Instability,0
+56235,,Special,
+55630,Can cause temporary incapacitation or residual injury.,Health,2
+55630,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+55630,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+55630,,Special,
+542881,Can be lethal.,Health,4
+542881,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+542881,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+542881,,Special,
+542767,Can cause temporary incapacitation or residual injury.,Health,2
+542767,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+542767,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+542767,,Special,
+542756,Can cause temporary incapacitation or residual injury.,Health,2
+542756,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+542756,"Normally stable, even under fire conditions.",Instability,0
+542756,,Special,
+541413,Can be lethal.,Health,4
+541413,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+541413,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+541413,,Special,
+54115,Can cause serious or permanent injury.,Health,3
+54115,Must be preheated before ignition can occur.,Flammability,1
+54115,"Normally stable, even under fire conditions.",Instability,0
+54115,,Special,
+540590,Can cause significant irritation.,Health,1
+540590,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+540590,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+540590,,Special,
+532274,Can cause serious or permanent injury.,Health,3
+532274,Must be preheated before ignition can occur.,Flammability,1
+532274,"Normally stable, even under fire conditions.",Instability,0
+532274,,Special,
+528290,Can cause serious or permanent injury.,Health,3
+528290,Must be preheated before ignition can occur.,Flammability,1
+528290,Readily capable of detonation or explosive decomposition or explosive reaction at normal temperatures and pressures.,Instability,4
+528290,,Special,
+50000,Can cause serious or permanent injury.,Health,3
+50000,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+50000,"Normally stable, even under fire conditions.",Instability,0
+50000,,Special,
+463581,Can cause serious or permanent injury.,Health,3
+463581,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+463581,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+463581,,Special,
+460195,Can be lethal.,Health,4
+460195,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+460195,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+460195,,Special,
+4170303,Can be lethal.,Health,4
+4170303,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+4170303,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+4170303,,Special,
+4098719,Can cause temporary incapacitation or residual injury.,Health,2
+4098719,Must be preheated before ignition can occur.,Flammability,1
+4098719,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+4098719,Reacts violently or explosively with water.,Special,W
+302012,Can be lethal.,Health,4
+302012,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+302012,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+302012,,Special,
+26543975,Can cause serious or permanent injury.,Health,3
+26543975,Must be preheated before ignition can occur.,Flammability,1
+26543975,"Normally stable, even under fire conditions.",Instability,0
+26543975,,Special,
+26471625,Can cause serious or permanent injury.,Health,3
+26471625,Must be preheated before ignition can occur.,Flammability,1
+26471625,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+26471625,,Special,
+25321226,Can cause temporary incapacitation or residual injury.,Health,2
+25321226,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+25321226,"Normally stable, even under fire conditions.",Instability,0
+25321226,,Special,
+25321146,Can cause serious or permanent injury.,Health,3
+25321146,Must be preheated before ignition can occur.,Flammability,1
+25321146,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+25321146,,Special,
+25154523,Can cause serious or permanent injury.,Health,3
+25154523,Must be preheated before ignition can occur.,Flammability,1
+25154523,"Normally stable, even under fire conditions.",Instability,0
+25154523,,Special,
+22083745,Can cause serious or permanent injury.,Health,3
+22083745,Must be preheated before ignition can occur.,Flammability,1
+22083745,"Normally stable, even under fire conditions.",Instability,0
+22083745,,Special,
+20859738,Can be lethal.,Health,4
+20859738,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+20859738,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+20859738,Reacts violently or explosively with water.,Special,W
+156627,,Health,
+156627,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+156627,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+156627,Reacts violently or explosively with water.,Special,W
+151564,Can be lethal.,Health,4
+151564,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+151564,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+151564,,Special,
+151508,Can cause serious or permanent injury.,Health,3
+151508,Will not burn under typical fire conditions.,Flammability,0
+151508,"Normally stable, even under fire conditions.",Instability,0
+151508,,Special,
+14977618,Can cause serious or permanent injury.,Health,3
+14977618,Will not burn under typical fire conditions.,Flammability,0
+14977618,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+14977618,Reacts violently or explosively with water.,Special,W
+143339,Can cause serious or permanent injury.,Health,3
+143339,Will not burn under typical fire conditions.,Flammability,0
+143339,"Normally stable, even under fire conditions.",Instability,0
+143339,,Special,
+141322,Can cause serious or permanent injury.,Health,3
+141322,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+141322,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+141322,,Special,
+140885,Can cause serious or permanent injury.,Health,3
+140885,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+140885,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+140885,,Special,
+13463406,Can cause significant irritation.,Health,1
+13463406,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+13463406,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+13463406,,Special,
+13463393,Can be lethal.,Health,4
+13463393,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+13463393,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+13463393,,Special,
+1345046,Can cause significant irritation.,Health,1
+1345046,Must be preheated before ignition can occur.,Flammability,1
+1345046,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+1345046,,Special,
+134327,Can cause temporary incapacitation or residual injury.,Health,2
+134327,Must be preheated before ignition can occur.,Flammability,1
+134327,"Normally stable, even under fire conditions.",Instability,0
+134327,,Special,
+1336363,Can cause temporary incapacitation or residual injury.,Health,2
+1336363,Must be preheated before ignition can occur.,Flammability,1
+1336363,"Normally stable, even under fire conditions.",Instability,0
+1336363,,Special,
+1333820,Can cause serious or permanent injury.,Health,3
+1333820,Will not burn under typical fire conditions.,Flammability,0
+1333820,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+1333820,Possesses oxidizing properties.,Special,OX
+1330207,Can cause temporary incapacitation or residual injury.,Health,2
+1330207,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+1330207,"Normally stable, even under fire conditions.",Instability,0
+1330207,,Special,
+1327533,Can cause serious or permanent injury.,Health,3
+1327533,Will not burn under typical fire conditions.,Flammability,0
+1327533,"Normally stable, even under fire conditions.",Instability,0
+1327533,,Special,
+1319773,Can cause serious or permanent injury.,Health,3
+1319773,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+1319773,"Normally stable, even under fire conditions.",Instability,0
+1319773,,Special,
+131113,Can cause significant irritation.,Health,1
+131113,Must be preheated before ignition can occur.,Flammability,1
+131113,"Normally stable, even under fire conditions.",Instability,0
+131113,,Special,
+1310732,Can cause serious or permanent injury.,Health,3
+1310732,Will not burn under typical fire conditions.,Flammability,0
+1310732,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+1310732,,Special,
+1303339,Can cause serious or permanent injury.,Health,3
+1303339,Will not burn under typical fire conditions.,Flammability,0
+1303339,"Normally stable, even under fire conditions.",Instability,0
+1303339,,Special,
+1303282,Can cause serious or permanent injury.,Health,3
+1303282,Will not burn under typical fire conditions.,Flammability,0
+1303282,"Normally stable, even under fire conditions.",Instability,0
+1303282,,Special,
+127184,Can cause temporary incapacitation or residual injury.,Health,2
+127184,Will not burn under typical fire conditions.,Flammability,0
+127184,"Normally stable, even under fire conditions.",Instability,0
+127184,,Special,
+126998,Can cause temporary incapacitation or residual injury.,Health,2
+126998,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+126998,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+126998,,Special,
+126987,Can be lethal.,Health,4
+126987,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+126987,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+126987,,Special,
+124403,Can cause serious or permanent injury.,Health,3
+124403,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+124403,"Normally stable, even under fire conditions.",Instability,0
+124403,,Special,
+123911,Can cause temporary incapacitation or residual injury.,Health,2
+123911,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+123911,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+123911,,Special,
+123728,Can cause serious or permanent injury.,Health,3
+123728,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+123728,"Normally stable, even under fire conditions.",Instability,0
+123728,,Special,
+123637,Can cause temporary incapacitation or residual injury.,Health,2
+123637,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+123637,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+123637,,Special,
+123386,Can cause temporary incapacitation or residual injury.,Health,2
+123386,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+123386,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+123386,,Special,
+123319,Can cause temporary incapacitation or residual injury.,Health,2
+123319,Must be preheated before ignition can occur.,Flammability,1
+123319,"Normally stable, even under fire conditions.",Instability,0
+123319,,Special,
+122996,Can cause serious or permanent injury.,Health,3
+122996,Must be preheated before ignition can occur.,Flammability,1
+122996,"Normally stable, even under fire conditions.",Instability,0
+122996,,Special,
+122394,Can cause temporary incapacitation or residual injury.,Health,2
+122394,Must be preheated before ignition can occur.,Flammability,1
+122394,"Normally stable, even under fire conditions.",Instability,0
+122394,,Special,
+121697,Can cause serious or permanent injury.,Health,3
+121697,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+121697,"Normally stable, even under fire conditions.",Instability,0
+121697,,Special,
+121448,Can cause serious or permanent injury.,Health,3
+121448,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+121448,"Normally stable, even under fire conditions.",Instability,0
+121448,,Special,
+121142,Can cause serious or permanent injury.,Health,3
+121142,Must be preheated before ignition can occur.,Flammability,1
+121142,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+121142,,Special,
+120832,Can cause serious or permanent injury.,Health,3
+120832,Must be preheated before ignition can occur.,Flammability,1
+120832,"Normally stable, even under fire conditions.",Instability,0
+120832,,Special,
+120821,Can cause temporary incapacitation or residual injury.,Health,2
+120821,Must be preheated before ignition can occur.,Flammability,1
+120821,"Normally stable, even under fire conditions.",Instability,0
+120821,,Special,
+120809,Can cause serious or permanent injury.,Health,3
+120809,Must be preheated before ignition can occur.,Flammability,1
+120809,"Normally stable, even under fire conditions.",Instability,0
+120809,,Special,
+120127,Can cause significant irritation.,Health,1
+120127,Must be preheated before ignition can occur.,Flammability,1
+120127,"Normally stable, even under fire conditions.",Instability,0
+120127,,Special,
+119904,Can cause significant irritation.,Health,1
+119904,Must be preheated before ignition can occur.,Flammability,1
+119904,"Normally stable, even under fire conditions.",Instability,0
+119904,,Special,
+117840,Can cause significant irritation.,Health,1
+117840,Must be preheated before ignition can occur.,Flammability,1
+117840,"Normally stable, even under fire conditions.",Instability,0
+117840,,Special,
+116143,Can cause temporary incapacitation or residual injury.,Health,2
+116143,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+116143,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+116143,,Special,
+115071,Can cause significant irritation.,Health,1
+115071,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+115071,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+115071,,Special,
+112505,Can cause significant irritation.,Health,1
+112505,Must be preheated before ignition can occur.,Flammability,1
+112505,"Normally stable, even under fire conditions.",Instability,0
+112505,,Special,
+112492,Can cause significant irritation.,Health,1
+112492,Must be preheated before ignition can occur.,Flammability,1
+112492,"Normally stable, even under fire conditions.",Instability,0
+112492,,Special,
+112367,Can cause significant irritation.,Health,1
+112367,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+112367,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+112367,,Special,
+112356,Can cause significant irritation.,Health,1
+112356,Must be preheated before ignition can occur.,Flammability,1
+112356,"Normally stable, even under fire conditions.",Instability,0
+112356,,Special,
+112345,Can cause significant irritation.,Health,1
+112345,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+112345,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+112345,,Special,
+112072,Can cause significant irritation.,Health,1
+112072,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+112072,"Normally stable, even under fire conditions.",Instability,0
+112072,,Special,
+111966,Can cause significant irritation.,Health,1
+111966,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111966,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+111966,,Special,
+111911,Can cause temporary incapacitation or residual injury.,Health,2
+111911,Must be preheated before ignition can occur.,Flammability,1
+111911,"Normally stable, even under fire conditions.",Instability,0
+111911,,Special,
+111900,Can cause temporary incapacitation or residual injury.,Health,2
+111900,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111900,"Normally stable, even under fire conditions.",Instability,0
+111900,,Special,
+111773,Can cause significant irritation.,Health,1
+111773,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111773,"Normally stable, even under fire conditions.",Instability,0
+111773,,Special,
+111762,Can cause serious or permanent injury.,Health,3
+111762,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111762,"Normally stable, even under fire conditions.",Instability,0
+111762,,Special,
+111444,Can cause serious or permanent injury.,Health,3
+111444,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111444,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+111444,,Special,
+111422,Can cause serious or permanent injury.,Health,3
+111422,Must be preheated before ignition can occur.,Flammability,1
+111422,"Normally stable, even under fire conditions.",Instability,0
+111422,,Special,
+111159,Can cause temporary incapacitation or residual injury.,Health,2
+111159,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+111159,"Normally stable, even under fire conditions.",Instability,0
+111159,,Special,
+110861,Can cause serious or permanent injury.,Health,3
+110861,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+110861,"Normally stable, even under fire conditions.",Instability,0
+110861,,Special,
+110827,Can cause significant irritation.,Health,1
+110827,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+110827,"Normally stable, even under fire conditions.",Instability,0
+110827,,Special,
+110805,Can cause significant irritation.,Health,1
+110805,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+110805,"Normally stable, even under fire conditions.",Instability,0
+110805,,Special,
+110714,Can cause significant irritation.,Health,1
+110714,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+110714,"Normally stable, even under fire conditions.",Instability,0
+110714,,Special,
+11066492,Can cause serious or permanent injury.,Health,3
+11066492,Must be preheated before ignition can occur.,Flammability,1
+11066492,"Normally stable, even under fire conditions.",Instability,0
+11066492,,Special,
+110543,,Health,
+110543,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+110543,"Normally stable, even under fire conditions.",Instability,0
+110543,,Special,
+110009,Can cause temporary incapacitation or residual injury.,Health,2
+110009,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+110009,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+110009,,Special,
+109864,Can cause significant irritation.,Health,1
+109864,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+109864,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+109864,,Special,
+109068,Can cause serious or permanent injury.,Health,3
+109068,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+109068,"Normally stable, even under fire conditions.",Instability,0
+109068,,Special,
+108952,Can be lethal.,Health,4
+108952,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+108952,"Normally stable, even under fire conditions.",Instability,0
+108952,,Special,
+108930,Can cause significant irritation.,Health,1
+108930,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+108930,"Normally stable, even under fire conditions.",Instability,0
+108930,,Special,
+108907,Can cause serious or permanent injury.,Health,3
+108907,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+108907,"Normally stable, even under fire conditions.",Instability,0
+108907,,Special,
+108883,Can cause temporary incapacitation or residual injury.,Health,2
+108883,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+108883,"Normally stable, even under fire conditions.",Instability,0
+108883,,Special,
+108601,Can cause serious or permanent injury.,Health,3
+108601,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+108601,"Normally stable, even under fire conditions.",Instability,0
+108601,,Special,
+108394,Can cause serious or permanent injury.,Health,3
+108394,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+108394,"Normally stable, even under fire conditions.",Instability,0
+108394,,Special,
+108383,Can cause temporary incapacitation or residual injury.,Health,2
+108383,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+108383,"Normally stable, even under fire conditions.",Instability,0
+108383,,Special,
+108316,Can cause serious or permanent injury.,Health,3
+108316,Must be preheated before ignition can occur.,Flammability,1
+108316,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+108316,,Special,
+108101,Can cause temporary incapacitation or residual injury.,Health,2
+108101,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+108101,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+108101,,Special,
+108054,Can cause temporary incapacitation or residual injury.,Health,2
+108054,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+108054,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+108054,,Special,
+107302,Can cause serious or permanent injury.,Health,3
+107302,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107302,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+107302,,Special,
+107211,Can cause temporary incapacitation or residual injury.,Health,2
+107211,Must be preheated before ignition can occur.,Flammability,1
+107211,"Normally stable, even under fire conditions.",Instability,0
+107211,,Special,
+107197,Can be lethal.,Health,4
+107197,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107197,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+107197,,Special,
+107186,Can be lethal.,Health,4
+107186,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107186,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+107186,,Special,
+107131,Can be lethal.,Health,4
+107131,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107131,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+107131,,Special,
+107119,Can be lethal.,Health,4
+107119,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107119,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+107119,,Special,
+107062,Can cause temporary incapacitation or residual injury.,Health,2
+107062,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107062,"Normally stable, even under fire conditions.",Instability,0
+107062,,Special,
+107051,Can cause serious or permanent injury.,Health,3
+107051,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107051,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+107051,,Special,
+107028,Can be lethal.,Health,4
+107028,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+107028,Capable of detonation or explosive decomposition or explosive reaction but requires a strong initiating source or must be heated under confinement before initiation.,Instability,3
+107028,,Special,
+106990,Can cause temporary incapacitation or residual injury.,Health,2
+106990,Burns readily. Rapidly or completely vaporizes at atmospheric pressure and normal ambient temperature.,Flammability,4
+106990,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+106990,,Special,
+106945,Can cause temporary incapacitation or residual injury.,Health,2
+106945,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+106945,"Normally stable, even under fire conditions.",Instability,0
+106945,,Special,
+106934,Can cause serious or permanent injury.,Health,3
+106934,Will not burn under typical fire conditions.,Flammability,0
+106934,"Normally stable, even under fire conditions.",Instability,0
+106934,,Special,
+106898,Can be lethal.,Health,4
+106898,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+106898,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+106898,,Special,
+106887,Can cause serious or permanent injury.,Health,3
+106887,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+106887,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+106887,Reacts violently or explosively with water.,Special,W
+106514,Can cause serious or permanent injury.,Health,3
+106514,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+106514,"Normally stable, even under fire conditions.",Instability,0
+106514,,Special,
+106489,Can be lethal.,Health,4
+106489,Must be preheated before ignition can occur.,Flammability,1
+106489,"Normally stable, even under fire conditions.",Instability,0
+106489,,Special,
+106467,Can cause temporary incapacitation or residual injury.,Health,2
+106467,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+106467,"Normally stable, even under fire conditions.",Instability,0
+106467,,Special,
+106445,Can cause serious or permanent injury.,Health,3
+106445,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+106445,"Normally stable, even under fire conditions.",Instability,0
+106445,,Special,
+106423,Can cause temporary incapacitation or residual injury.,Health,2
+106423,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+106423,"Normally stable, even under fire conditions.",Instability,0
+106423,,Special,
+104405,Can cause serious or permanent injury.,Health,3
+104405,Must be preheated before ignition can occur.,Flammability,1
+104405,"Normally stable, even under fire conditions.",Instability,0
+104405,,Special,
+103231,No hazard beyond that of ordinary combustible material.,Health,0
+103231,Must be preheated before ignition can occur.,Flammability,1
+103231,"Normally stable, even under fire conditions.",Instability,0
+103231,,Special,
+101779,Can cause temporary incapacitation or residual injury.,Health,2
+101779,Must be preheated before ignition can occur.,Flammability,1
+101779,"Normally stable, even under fire conditions.",Instability,0
+101779,,Special,
+100447,Can cause serious or permanent injury.,Health,3
+100447,Must be moderately heated or exposed to relatively high ambient temperatures before ignition can occur.,Flammability,2
+100447,Normally stable but can become unstable at elevated temperatures and pressures.,Instability,1
+100447,,Special,
+100425,Can cause temporary incapacitation or residual injury.,Health,2
+100425,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+100425,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+100425,,Special,
+100414,Can cause temporary incapacitation or residual injury.,Health,2
+100414,Can be ignited under almost all ambient temperature conditions.,Flammability,3
+100414,"Normally stable, even under fire conditions.",Instability,0
+100414,,Special,
+10025737,Can cause serious or permanent injury.,Health,3
+10025737,Will not burn under typical fire conditions.,Flammability,0
+10025737,"Normally stable, even under fire conditions.",Instability,0
+10025737,,Special,
+100210,Can cause significant irritation.,Health,1
+100210,Must be preheated before ignition can occur.,Flammability,1
+100210,"Normally stable, even under fire conditions.",Instability,0
+100210,,Special,
+100027,Can cause serious or permanent injury.,Health,3
+100027,Must be preheated before ignition can occur.,Flammability,1
+100027,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+100027,,Special,
+100016,Can cause serious or permanent injury.,Health,3
+100016,Must be preheated before ignition can occur.,Flammability,1
+100016,Readily undergoes violent chemical changes at elevated temperatures and pressures.,Instability,2
+100016,,Special,

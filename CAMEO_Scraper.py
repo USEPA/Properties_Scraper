@@ -4,7 +4,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException, StaleElementReferenceException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -42,9 +42,9 @@ class CAMEO_Scraper:
         for chemical in self.chemicals:
             result = self._Searching_chemicals(chemical)
             result['CAS NUMBER'] = chemical
+            df_result = pd.concat([result, df_result], ignore_index = True,
+                                       sort = True, axis = 0)
             if not result.empty:
-                df_result = pd.concat([result, df_result], ignore_index = True,
-                                           sort = True, axis = 0)
                 print('{:15s} {:15s}'.format(chemical, 'Yes'))
             else:
                 print('{:15s} {:15s}'.format(chemical, 'No'))
@@ -71,11 +71,9 @@ class CAMEO_Scraper:
             n_pages = int(re.search(regex, text_navigator).group(1))
             counting_pages = 0
             no_found_result = True
-            while counting_pages < n_pages | no_found_result:
-                counting_pages = counting_pages + 1
-                links = self._browser.find_elements_by_xpath(self._queries['links'])
-                for link in links:
-                    href = link.get_attribute('href')
+            for page in range(n_pages):
+                hrefs = [link.get_attribute('href') for link in self._browser.find_elements_by_xpath(self._queries['links'])]
+                for href in hrefs:
                     self._browser.get(href)
                     table = self._queries['table']
                     result = self._dynamic_wait(table, action = 'wait_2')
@@ -83,7 +81,13 @@ class CAMEO_Scraper:
                     if not result.empty:
                         no_found_result = False
                         break
-        except AttributeError:
+                if not result.empty:
+                    no_found_result = False
+                    break
+                if n_pages != 1 and page != n_pages - 1:
+                    next_button = self._queries['next']
+                    self._dynamic_wait(next_button, action = 'click')
+        except AttributeError or StaleElementReferenceException:
             result = pd.DataFrame()
         return result
 
@@ -100,14 +104,14 @@ class CAMEO_Scraper:
             hazard_list.append(hazard.text)
             value_list.append(values[idx].text)
             description_list.append(descriptions[idx].text)
-        result = pd.DataFrame({'Hazard': hazard_list,
-                                'Value': value_list,
-                                'Description': description_list})
+        result = pd.DataFrame({'HAZARD': hazard_list,
+                                'VALUE': value_list,
+                                'DESCRIPTION': description_list})
         return result
 
 
     def _dynamic_wait(self, XPath, action = 'send', chem = None):
-        delay = 15
+        delay = 5
         try:
             element = WebDriverWait(self._browser, delay).until(EC.presence_of_element_located((By.XPATH, XPath)))
             if action == 'send':
@@ -119,6 +123,8 @@ class CAMEO_Scraper:
             elif action == 'wait_2':
                 result = self._retrieving_info_from_table()
                 return result
+            elif action == 'click':
+                element.click()
         except TimeoutException:
             return pd.DataFrame()
 
@@ -145,6 +151,7 @@ if __name__ == '__main__':
         Chemicals = Chemicals + df_chemicals['CAS NUMBER'].tolist()
     del df_chemicals
     Chemicals = list(set(Chemicals))
+    Chemicals.sort()
     File_save = args.Saving_file_path
     Scraper = CAMEO_Scraper(Chemicals, File_save)
     Scraper.Browsing()

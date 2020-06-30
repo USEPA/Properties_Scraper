@@ -12,3 +12,4 @@ web_sites:
       value: //tr/td[@class="value"]
       description: //tr/td[@class="description"]
       new_search: //div[@id="sidebar"]/a[contains(text(),"New Search")]
+      next: //span[@class="spaced navigator-button"]/a[contains(text(),'Next')]
