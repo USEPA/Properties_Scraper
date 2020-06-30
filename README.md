@@ -31,13 +31,16 @@ To run the code from the Linux/Ubuntu terminal or Windows CMD:
 ```
    python Main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
+
+The positional argument Option has currently the following values:
+
+      * A: for runing OSHA_Scraper.py
+      * B: for runing CAMEO_Scraper.py
+
 The inputs accompanying the flags represent:
 
    - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching (except for OSHA database)
    - *file_path_to_save_infomartion*: path of the file where you will save the information.
-   - Option:
-      * A: for runing OSHA_Scraper.py
-      * B: for runing CAMEO_Scraper.py
 
 Additionally, you can use each scraper separately, for example:
 
