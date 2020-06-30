@@ -18,6 +18,7 @@ In order to use this code you need the following requirements:
    - pandas (https://pypi.org/project/pandas/)
    - regex (https://pypi.org/project/regex/)
    - argparse (https://pypi.org/project/argparse/)
+   - pyyaml (https://pyyaml.org/wiki/PyYAMLDocumentation)
 
 ## How to use
 
