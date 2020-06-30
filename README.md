@@ -33,7 +33,6 @@ To run the code from the Linux/Ubuntu terminal or Windows CMD:
 ```
 
 The positional argument Option has currently the following values:
-
       * A: for runing OSHA_Scraper.py
       * B: for runing CAMEO_Scraper.py
 
