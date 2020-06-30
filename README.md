@@ -1,10 +1,10 @@
-# CAMEO Scraper
+# Properties scraper
 
 <p align="center">
   <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="20%">
 </p>
 
-This is a Python script to gather information about the **National Fire Protection Association (NFPA) 704** for hazardous chemicals from CAMEO database.
+This is a Python script to gather information from CAMEO Databas, about the hazards classification system according to the **National Fire Protection Association (NFPA)**.Also, the scripts retrieves exposure and physical properties from the **Occupational Safety and Health Administration (OSHA)**'s Occupational Chemical Database. 
 
 ## Requirements
 
@@ -20,28 +20,27 @@ In order to use this code you need the following requirements:
    - argparse (https://pypi.org/project/argparse/)
    - pyyaml (https://pyyaml.org/wiki/PyYAMLDocumentation)
 
+
 ## How to use
 
 To run the code from the Linux/Ubuntu terminal or Windows CMD:
 
-1. You must move to the folder where is CAMEO_Scapper.py
+1. You must move to the folder where is Main.py
 2. Run the following command: 
 
 ```
-   python CAMEO_Scapper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+   python Main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
 The inputs accompanying the flags represent:
 
-   - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching.
+   - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching (except for OSHA database)
    - *file_path_to_save_infomartion*: path of the file where you will save the information.
+   - Option:
+      * A: for runing OSHA_Scraper.py
+      * B: for runing CAMEO_Scraper.py
 
-## Output
+Additionally, you can use each scraper separately, for example:
 
-You will obtain a .csv file with the following columns:
-
-| Column name | Description |
-| ------------- | ------------- |
-| CAS | CAS number for the chemical |
-| HAZARD | Based on NFPA system (e.g., fire hazard) |
-| VALUE | Value in the numbering scale ranging from 0 to 4 |
-| DESCRIPTION | Explanation about the value (e.g., may detonate) |
+```
+   python CAMEO_Scraper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+```
