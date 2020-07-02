@@ -18,7 +18,7 @@ sys.path.append(os.path.dirname(os.path.realpath(__file__)) + '/..')
 from auxiliary import organizing_input, checking_existing_chemicals_in_outfile
 from common import config
 
-class CAMEO_Scraper:
+class CAMEO_scraper:
 
     def __init__(self, Chemicals, File_save):
         self._config = config()['web_sites']['CAMEO']
@@ -29,7 +29,7 @@ class CAMEO_Scraper:
         self._now = datetime.datetime.now().strftime('%m_%d_%Y')
 
 
-    def Browsing(self):
+    def browsing(self):
         options = Options()
         options.headless = True
         options.add_argument('--disable-notifications')
@@ -46,7 +46,7 @@ class CAMEO_Scraper:
         print('{:15s} {:15s}'.format('CAS Number', 'Found?'))
         print('-' * 45)
         for chemical in self.chemicals:
-            result = self._Searching_chemicals(chemical)
+            result = self._searching_chemicals(chemical)
             if not result.empty:
                 print('{:15s} {:15s}'.format(chemical, 'Yes'))
                 result['CAS NUMBER'] = chemical
@@ -63,12 +63,12 @@ class CAMEO_Scraper:
         self._browser.close()
         df_result['DATE CONSULTED'] = self._now
         if self._existing:
-            df_result.to_csv(self.file_save, index = False, mode = 'a', sep = ',')
+            df_result.to_csv(self.file_save, index = False, mode = 'a', sep = ',', header=False)
         else:
             df_result.to_csv(self.file_save, index = False, sep = ',')
 
 
-    def _Searching_chemicals(self, chemical):
+    def _searching_chemicals(self, chemical):
         # Looking for the searching bar
         searching_bar = self._queries['cas_searching_bar']
         self._dynamic_wait(searching_bar, chem = chemical)
@@ -162,4 +162,4 @@ if __name__ == '__main__':
     Chemicals = organizing_input(Reading_file_path)
     File_save = args.Saving_file_path
     Scraper = CAMEO_Scraper(Chemicals, File_save)
-    Scraper.Browsing()
+    Scraper.browsing()

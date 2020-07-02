@@ -29,7 +29,6 @@ web_sites:
         NFPA health rating: ./tbody/child::tr[7]/child::td[2]
         NFPA fire rating: ./tbody/child::tr[7]/child::td[4]
         NFPA reactivity rating: ./tbody/child::tr[8]/child::td[2]
-        NFPA special instruction: ./tbody/child::tr[8]/child::td[4]
       Exposure:
         OSHA TWA: ./tbody/child::tr[2]/child::td[2]
         NIOSH TWA: ./tbody/child::tr[2]/child::td[4]

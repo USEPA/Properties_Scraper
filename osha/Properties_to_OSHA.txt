@@ -4,7 +4,6 @@ Physical,Upper explosive limit (UEL)
 Physical,NFPA health rating
 Physical,NFPA fire rating
 Physical,NFPA reactivity rating
-Physical,NFPA special instruction
 Exposure,OSHA TWA
 Exposure,NIOSH TWA
 Exposure,ACGIH TWA

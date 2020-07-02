@@ -1,0 +1,31 @@
+CAS NUMBER
+CAS NON-HYPHEN
+SUBSTANCE
+Molecular weight
+Lower explosive limit (LEL)
+Lower explosive limit (LEL) - Units
+Upper explosive limit (UEL)
+Upper explosive limit (UEL) - Units
+NFPA health rating
+NFPA fire rating
+NFPA reactivity rating
+OSHA TWA
+OSHA TWA - Units
+NIOSH TWA
+NIOSH TWA - Units
+ACGIH TWA
+ACGIH TWA - Units
+Cal/OSHA TWA
+Cal/OSHA TWA - Units
+OSHA STEL
+OSHA STEL - Units
+NIOSH STEL
+NIOSH STEL - Units
+ACGIH STEL
+ACGIH STEL - Units
+Cal/OSHA STEL
+Cal/OSHA STEL - Units
+IDLH
+IDLH - Units
+SOURCE
+DATE CONSULTED

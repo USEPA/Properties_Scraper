@@ -23,7 +23,7 @@ class breaking(Exception):
     pass
 
 # Class that handles database
-class OSHA_Scraper:
+class OSHA_scraper:
 
     def __init__(self, File_save):
         self._config = config()['web_sites']['OSHA']
@@ -118,6 +118,9 @@ class OSHA_Scraper:
         self._visit()
         df_properties_to_OSHA = pd.read_csv(self._dir_path + '/Properties_to_OSHA.txt',
                                         header = None)
+        columns_order = pd.read_csv(self._dir_path + '/Columns_order.txt',
+                                        header = None)
+        columns_order = columns_order[0].tolist()
         kind_of_table = df_properties_to_OSHA[0].unique().tolist()
         Properties_to_OSHA = {k_t: [row.iloc[1] for idx, row in df_properties_to_OSHA.loc[df_properties_to_OSHA[0] == k_t].iterrows()] for k_t in kind_of_table}
         del df_properties_to_OSHA
@@ -136,6 +139,7 @@ class OSHA_Scraper:
                 continue
         self._browser.close()
         df['DATE CONSULTED'] = self._now
+        df = df[columns_order]
         df.to_csv(self.file_save, index = False, sep = ',')
 
 

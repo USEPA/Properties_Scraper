@@ -3,8 +3,8 @@
 # Importing libraries
 
 import argparse
-from OSHA.OSHA_Scraper import *
-from CAMEO.CAMEO_Scraper import *
+from osha.osha_scraper import *
+from cameo.cameo_scraper import *
 
 
 if __name__ == '__main__':
@@ -34,9 +34,9 @@ if __name__ == '__main__':
     File_save = args.Saving_file_path
 
     if Option == 'A':
-        Scraper = OSHA_Scraper(File_save)
+        Scraper = OSHA_scraper(File_save)
         Scraper.exploring_links()
     elif Option == 'B':
         Chemicals = organizing_input(Reading_file_path)
-        Scraper = CAMEO_Scraper(Chemicals, File_save)
-        Scraper.Browsing()
+        Scraper = CAMEO_scraper(Chemicals, File_save)
+        Scraper.browsing()
