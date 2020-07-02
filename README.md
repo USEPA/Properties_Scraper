@@ -9,8 +9,12 @@ This is a Python program to gather information about expoure limits and physical
 
 | Organization | Data source| Information | Website |
 | ------------- | ------------- | ------------- | ------------- |
-| U.S. National Oceanic and Atmospheric Administration | Computer-Aided Management of Emergency Operations (CAMEO) Database  | National Fire Protection Association (NFPA) 704 classification for hazardous chemicals | https://cameochemicals.noaa.gov/search/simple  |
-| U.S. Occupational Safety and Health Administration (OSHA) | Occupational Chemical Database | Physcial properties and exposure limits | https://www.osha.gov/chemicaldata |
+| National Oceanic and Atmospheric Administration (NOAA) | Computer-Aided Management of Emergency Operations (CAMEO) Database  | National Fire Protection Association (NFPA) 704 classification for hazardous chemicals | https://cameochemicals.noaa.gov/search/simple  |
+| Occupational Safety and Health Administration (OSHA) | Occupational Chemical Database | Physcial properties and exposure limits | https://www.osha.gov/chemicaldata |
+| National Institute of Standards and Technology (NIST) | Chemistry WebBook | Physical properties | https://webbook.nist.gov/ |
+| Environmental Protection Agency (EPA) | CompTox Chemicals Dashboard | Hazards and physical properties | https://comptox.epa.gov/dashboard |
+
+| Institute for Occupational Safety and Health of the German Social Accident Insurance (IFA) | GESTIS Substance database | International limit values | http://limitvalue.ifa.dguv.de |
 
 ## Requirements
 
