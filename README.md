@@ -29,7 +29,7 @@ To run the code from the Linux/Ubuntu terminal or Windows CMD:
 2. Run the following command: 
 
 ```
-   python Main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+   python main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
 
 The inputs accompanying the flags represent:
@@ -45,5 +45,5 @@ The positional argument *Option* has the following values currently:
 Additionally, you can use each scraper separately, for example:
 
 ```
-   python CAMEO_Scraper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+   python cameo_scraper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
