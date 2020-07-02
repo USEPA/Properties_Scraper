@@ -13,7 +13,7 @@ This is a Python program to gather information about expoure limits and physical
 | Occupational Safety and Health Administration (OSHA) | Occupational Chemical Database | Physcial properties and exposure limits | https://www.osha.gov/chemicaldata |
 | National Institute of Standards and Technology (NIST) | Chemistry WebBook | Physical properties | https://webbook.nist.gov/ |
 | Environmental Protection Agency (EPA) | CompTox Chemicals Dashboard | Hazards and physical properties | https://comptox.epa.gov/dashboard |
-| Institute for Occupational Safety and Health of the German Social Accident Insurance (IFA) | GESTIS Substance database | International limit values | http://limitvalue.ifa.dguv.de |
+| Institute for Occupational Safety and Health of the German Social Accident Insurance (IFA) | GESTIS Substance Database | International limit values | http://limitvalue.ifa.dguv.de |
 
 ## Requirements
 
