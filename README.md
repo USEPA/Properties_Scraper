@@ -25,7 +25,7 @@ In order to use this code you need the following requirements:
 
 To run the code from the Linux/Ubuntu terminal or Windows CMD:
 
-1. You must move to the folder where is Main.py
+1. You must move to the folder where is main.py
 2. Run the following command: 
 
 ```
