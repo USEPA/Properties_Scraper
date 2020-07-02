@@ -4,7 +4,7 @@
   <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="20%">
 </p>
 
-This is a Python script to gather from CAMEO Database, data about the classification of hazardous chemicals according to the **National Fire Protection Association** (NFPA). Also, the scripts retrieve exposure and physical properties from the **Occupational Safety and Health Administration** (OSHA)'s Occupational Chemical Database. 
+This is a Python program to gather from the **Computer-Aided Management of Emergency Operations** (CAMEO) Database, information about the classification of hazardous chemicals according to the **National Fire Protection Association** (NFPA). Also, the scripts retrieve exposure limits and physical properties from the **Occupational Safety and Health Administration** (OSHA)'s Occupational Chemical Database. 
 
 ## Requirements
 
@@ -25,22 +25,25 @@ In order to use this code you need the following requirements:
 
 To run the code from the Linux/Ubuntu terminal or Windows CMD:
 
-1. You must move to the folder where is Main.py
+1. You must move to the folder where is main.py
 2. Run the following command: 
 
 ```
-   python Main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+   python main.py Option -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
+
 The inputs accompanying the flags represent:
 
-   - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching (except for OSHA database)
+   - *file_path_to_read_CAS*: path of the file where you have the CAS numbers for searching (except for OSHA database).
    - *file_path_to_save_infomartion*: path of the file where you will save the information.
-   - Option:
-      * A: for runing OSHA_Scraper.py
-      * B: for runing CAMEO_Scraper.py
+   
+The positional argument *Option* has the following values currently:
+
+  - A: for runing OSHA_Scraper.py.
+  - B: for runing CAMEO_Scrape.py.
 
 Additionally, you can use each scraper separately, for example:
 
 ```
-   python CAMEO_Scraper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
+   python cameo_scraper.py -FR file_path_to_read_CAS -FS file_path_to_save_infomartion
 ```
