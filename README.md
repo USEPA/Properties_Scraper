@@ -4,7 +4,15 @@
   <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="20%">
 </p>
 
-This is a Python program to gather from the **Computer-Aided Management of Emergency Operations** (CAMEO) Database, information about the classification of hazardous chemicals according to the **National Fire Protection Association** (NFPA). Also, the scripts retrieve exposure limits and physical properties from the **Occupational Safety and Health Administration** (OSHA)'s Occupational Chemical Database. 
+This is a Python program to gather information about expoure limits and physical properties from different publicly-available sources:
+
+| Organization | Data source| Information | Website |
+| ------------- | ------------- | ------------- | ------------- |
+| U.S. National Oceanic and Atmospheric Administration | Computer-Aided Management of Emergency Operations (CAMEO) Database  | National Fire Protection Association (NFPA) 704 classification for hazardous chemicals | https://cameochemicals.noaa.gov/search/simple  |
+| U.S. Occupational Safety and Health Administration (OSHA) | Occupational Chemical Database | Physcial properties and exposure limits | https://www.osha.gov/chemicaldata |
+
+
+ Also, the scripts retrieve exposure limits and physical properties from the **Occupational Safety and Health Administration** (OSHA)'s Occupational Chemical Database. 
 
 ## Requirements
 
