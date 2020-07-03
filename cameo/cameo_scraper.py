@@ -161,5 +161,5 @@ if __name__ == '__main__':
     Reading_file_path = args.Reading_file_path
     Chemicals = organizing_input(Reading_file_path)
     File_save = args.Saving_file_path
-    Scraper = CAMEO_Scraper(Chemicals, File_save)
+    Scraper = CAMEO_scraper(Chemicals, File_save)
     Scraper.browsing()

@@ -18,10 +18,6 @@ import numpy as np
 sys.path.append(os.path.dirname(os.path.realpath(__file__)) + '/..')
 from common import config
 
-# Auxiliar class for the following loop
-class breaking(Exception):
-    pass
-
 # Class that handles database
 class OSHA_scraper:
 
@@ -154,5 +150,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     File_save = args.Saving_file_path
-    Scraper = OSHA_Scraper(File_save)
+    Scraper = OSHA_scraper(File_save)
     Scraper.exploring_links()

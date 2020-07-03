@@ -14,7 +14,10 @@ if __name__ == '__main__':
     parser.add_argument('Option',
                         help = 'What website do you want to use:\
                         [A]: OSHA.\
-                        [B]: CAMEO.', \
+                        [B]: CAMEO.\
+                        [C]: CompTox.\
+                        [D]: NIST.\
+                        [E]: IFA.', \
                         type = str)
 
     parser.add_argument('-FR', '--Reading_file_path', nargs = '+',
@@ -40,3 +43,7 @@ if __name__ == '__main__':
         Chemicals = organizing_input(Reading_file_path)
         Scraper = CAMEO_scraper(Chemicals, File_save)
         Scraper.browsing()
+    elif Option == 'C':
+        Chemicals = organizing_input(Reading_file_path)
+        Scraper = CompTox_scraper(Chemicals, File_save)
+        Scraper.searching_information()

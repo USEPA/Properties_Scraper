@@ -1,0 +1,70 @@
+PREFERRED NAME
+CAS NUMBER
+DSSTOX ID
+Molecular Mass
+LogP: Octanol-Water
+LogP: Octanol-Water - Score
+Melting Point
+Melting Point - Units
+Melting Point - Score
+Boiling Point
+Boiling Point - Units
+Boiling Point - Score
+Water Solubility
+Water Solubility - Units
+Water Solubility - Score
+Vapor Pressure
+Vapor Pressure - Units
+Vapor Pressure - Score
+Flash Point
+Flash Point - Units
+Flash Point - Score
+Surface Tension
+Surface Tension - Units
+Surface Tension - Score
+Index of Refraction
+Index of Refraction - Score
+Molar Refractivity
+Molar Refractivity - Units
+Molar Refractivity - Score
+Polarizability
+Polarizability - Units
+Polarizability - Score
+Density
+Density - Units
+Density - Score
+Molar Volume
+Molar Volume - Units
+Molar Volume - Score
+Thermal Conductivity
+Thermal Conductivity - Units
+Thermal Conductivity - Score
+Viscosity
+Viscosity - Units
+Viscosity - Score
+Henry's Law
+Henry's Law - Score
+LogKoa: Octanol-Air
+LogKoa: Octanol-Air - Score
+pKa Acidic Apparent
+pKa Acidic Apparent - Score
+pKa Basic Apparent
+pKa Basic Apparent - Score
+Bioaccumulation Factor
+Bioaccumulation Factor - Score
+Bioconcentration Factor
+Bioconcentration Factor - Score
+Soil Adsorp. Coeff. (logKoc)
+Soil Adsorp. Coeff. (logKoc) - Units
+Soil Adsorp. Coeff. (logKoc) - Score
+Atmos. Hydroxylation Rate
+Atmos. Hydroxylation Rate - Units
+Atmos. Hydroxylation Rate - Score
+Biodeg. Half-Life
+Biodeg. Half-Life - Units
+Biodeg. Half-Life - Score
+Fish Biotrans. Half-Life (Km)
+Fish Biotrans. Half-Life (Km) - Units
+Fish Biotrans. Half-Life (Km) - Score
+Data Quality - CompTox
+Data Source	Consulted Date

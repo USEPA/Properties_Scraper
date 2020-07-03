@@ -39,3 +39,32 @@ web_sites:
         ACGIH STEL: ./tbody/child::tr[3]/child::td[6]
         Cal/OSHA STEL: ./tbody/child::tr[3]/child::td[8]
         IDLH: ./tbody/child::tr[7]/child::td[3]
+  NIST:
+    url: https://webbook.nist.gov/
+  IFA:
+    url: http://limitvalue.ifa.dguv.de
+    queries:
+      Searching_bar_CAS: //input[@id="Tbox_cas"]
+      Searching_button: //input[@id="Butsearch"]
+      Results: //div[@class="containerCon"]/table/tbody/child::tr[2]/td
+      No_result: //span[@id="Lnix"]
+      Row_table_of_limits: //table[@id="DGgws"]/tbody/tr
+      Column_table_of_limits: ./td
+      Clear_button: //input[@id="Butclear"]
+  CompTox:
+    url: https://comptox.epa.gov/dashboard
+    queries:
+      dialog_window: //div[@id="fsrInvite"]
+      close_dialog_window: ./button[@id="fsrFocusFirst"]
+      properties/env-fate-transport:
+        table: //table[@class="VueTables__table table is-bordered is-striped is-hoverable is-fullwidth"]
+        row: ./tbody/child::tr
+        column: ./child::td
+      details:
+        close_collapse_panel_mass: //div[@id="IntrinsicProperties-heading" and @aria-expanded="false"]
+        open_collapse_panel_mass: //div[@id="IntrinsicProperties-heading" and @aria-expanded="true"]
+        weight: //div[@id="Intrinsic Properties-body" and @aria-expanded="true"]/div/div/child::span[2]
+        close_collapse_panel_dq: //div[@id="RecordInformation-heading" and @aria-expanded="false"]
+        open_collapse_panel_dq: //div[@id="RecordInformation-heading" and @aria-expanded="true"]
+        data_quality: //div[@id="Record Information-body" and @aria-expanded="true"]/div/div/span[contains(@class,"active")]
+      no_matching: //div[@class="table-responsive"]//tbody/tr/td[contains(text(), 'No matching records')]
