@@ -1,0 +1,21 @@
+CAS NUMBER
+Name
+Molecular Mass
+ΔcH°gas
+ΔcH°gas - Units
+ΔcH°liquid
+ΔcH°liquid - Units
+ΔcH°solid
+ΔcH°solid - Units
+Boiling Point
+Boiling Point - Units
+Melting Point
+Melting Point - Units
+IE
+IE - Units
+Proton affinity
+Proton affinity - Units
+Gas basicity
+Gas basicity - Units
+Source
+Consulted Date

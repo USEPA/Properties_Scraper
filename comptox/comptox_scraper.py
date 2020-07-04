@@ -156,7 +156,7 @@ class CompTox_scraper:
                                         options = options)
         self.chemicals = pd.DataFrame({'CAS NUMBER': self.chemicals})
         self._opening_dsstox_identifiers_and_casrn()
-        df = pd.DataFrame()
+        df = pd.DataFrame(columns = columns_order)
         for idx, row in self.chemicals.iterrows():
             dsstox_substance_id = row['DSSTOX ID']
             cas = row['CAS NUMBER']

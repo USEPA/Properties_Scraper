@@ -5,7 +5,9 @@
 import argparse
 from osha.osha_scraper import *
 from cameo.cameo_scraper import *
-
+from ifa.ifa_scraper import *
+from comptox.comptox_scraper import *
+from nist.nist_scraper import *
 
 if __name__ == '__main__':
 
@@ -47,3 +49,11 @@ if __name__ == '__main__':
         Chemicals = organizing_input(Reading_file_path)
         Scraper = CompTox_scraper(Chemicals, File_save)
         Scraper.searching_information()
+    elif Option == 'D':
+        Chemicals = organizing_input(Reading_file_path)
+        Scraper = NIST_scraper(Chemicals, File_save)
+        Scraper.searching_information()
+    elif Option == 'E':
+        Chemicals = organizing_input(Reading_file_path)
+        Scraper = IFA_scraper(Chemicals, File_save)
+        Scraper.retrieving_exposure_limits()

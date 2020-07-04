@@ -41,6 +41,13 @@ web_sites:
         IDLH: ./tbody/child::tr[7]/child::td[3]
   NIST:
     url: https://webbook.nist.gov/
+    queries:
+      name: //h1[@id="Top"]
+      mass: //main[@id="main"]/child::ul[1]/child::li[2]
+      headers: //ul/li
+      tables: //table[@class="data"]
+      row: ./tbody/tr
+      column: ./td
   IFA:
     url: http://limitvalue.ifa.dguv.de
     queries:
