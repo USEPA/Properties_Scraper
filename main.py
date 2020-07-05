@@ -47,7 +47,7 @@ if __name__ == '__main__':
         Scraper.browsing()
     elif Option == 'C':
         Chemicals = organizing_input(Reading_file_path)
-        Scraper = CompTox_scraper(Chemicals, File_save)
+        Scraper = CompTox_scraper(File_save, Chemicals)
         Scraper.searching_information()
     elif Option == 'D':
         Chemicals = organizing_input(Reading_file_path)
