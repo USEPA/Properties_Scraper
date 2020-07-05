@@ -47,8 +47,11 @@ The inputs accompanying the flags represent:
    
 The positional argument *Option* has the following values currently:
 
-  - A: for runing OSHA_Scraper.py.
-  - B: for runing CAMEO_Scrape.py.
+  - A: for running osha_scraper.py.
+  - B: for running cameo_scraper.py.
+  - C: for running comptox_scraper.py.
+  - D: for running nist_scraper.py.
+  - E: for running ifa_scraper.py
 
 Additionally, you can use each scraper separately, for example:
 
