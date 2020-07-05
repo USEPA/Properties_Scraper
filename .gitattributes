@@ -3,3 +3,4 @@
 /comptox/DSSTox_Identifiers_and_CASRN.csv filter=lfs diff=lfs merge=lfs -text
 /ifa/IFA.csv filter=lfs diff=lfs merge=lfs -text
 /nist/NIST.csv filter=lfs diff=lfs merge=lfs -text
+/comptox/CompTox.csv filter=lfs diff=lfs merge=lfs -text

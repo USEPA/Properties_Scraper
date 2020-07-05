@@ -31,7 +31,7 @@ class CompTox_scraper:
 
 
     def _visit(self, dsstox_substance_id, option):
-        self._browser.get(self._url + '/dsstoxdb/results?search=' + dsstox_substance_id + '#' + option)
+        self._browser.get('{}/dsstoxdb/results?search={}#{}'.format(self._url, dsstox_substance_id, option))
 
 
     def _opening_dsstox_identifiers_and_casrn(self):
@@ -157,17 +157,21 @@ class CompTox_scraper:
         self.chemicals = pd.DataFrame({'CAS NUMBER': self.chemicals})
         self._opening_dsstox_identifiers_and_casrn()
         df = pd.DataFrame(columns = columns_order)
+        n_searches = 0
+        self.chemicals = self.chemicals.where(pd.notnull(self.chemicals), None)
+        n_rows = self.chemicals.shape[0]
         for idx, row in self.chemicals.iterrows():
             dsstox_substance_id = row['DSSTOX ID']
             cas = row['CAS NUMBER']
             preferred_name = row['PREFERRED NAME']
+            n_searches = n_searches + 1
             try:
                 if not dsstox_substance_id:
                     df_aux = pd.DataFrame({'CAS NUMBER': [cas],
                                           'Consulted Date': [self._now]})
                 else:
                     Properties = {'CAS NUMBER': [cas],
-                                  'Data Source': [self._url + '/dsstoxdb/results?search=' + dsstox_substance_id],
+                                  'Data Source': ['{}/dsstoxdb/results?search={}'.format(self._url, dsstox_substance_id)],
                                   'Consulted Date': [self._now],
                                   'PREFERRED NAME': [preferred_name],
                                   'DSSTOX ID': [dsstox_substance_id]}
@@ -184,13 +188,16 @@ class CompTox_scraper:
                     df_aux = pd.DataFrame(Properties)
                 df = pd.concat([df, df_aux], ignore_index = True,
                                            sort = True, axis = 0)
+                if (n_searches % 20 == 0) or (n_searches == n_rows):
+                    df = df[columns_order]
+                    if self._existing:
+                        df.to_csv(self.file_save, index = False, mode = 'a', sep = ',', header=False)
+                    else:
+                        df.to_csv(self.file_save, index = False, sep = ',')
+                        self._existing = True
+                    df = pd.DataFrame(columns = columns_order)
             except TimeoutException:
                 continue
-        df = df[columns_order]
-        if self._existing:
-            df.to_csv(self.file_save, index = False, mode = 'a', sep = ',', header=False)
-        else:
-            df.to_csv(self.file_save, index = False, sep = ',')
         self._browser.close()
 
 

@@ -54,9 +54,9 @@ Bioaccumulation Factor
 Bioaccumulation Factor - Score
 Bioconcentration Factor
 Bioconcentration Factor - Score
-Soil Adsorp. Coeff. (logKoc)
-Soil Adsorp. Coeff. (logKoc) - Units
-Soil Adsorp. Coeff. (logKoc) - Score
+Soil Adsorp. Coeff. (Koc)
+Soil Adsorp. Coeff. (Koc) - Units
+Soil Adsorp. Coeff. (Koc) - Score
 Atmos. Hydroxylation Rate
 Atmos. Hydroxylation Rate - Units
 Atmos. Hydroxylation Rate - Score
@@ -67,4 +67,5 @@ Fish Biotrans. Half-Life (Km)
 Fish Biotrans. Half-Life (Km) - Units
 Fish Biotrans. Half-Life (Km) - Score
 Data Quality - CompTox
-Data Source	Consulted Date
+Data Source
+Consulted Date
