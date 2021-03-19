@@ -4,7 +4,7 @@
   <img src=https://github.com/jodhernandezbe/CAMEO_Scraper/blob/master/Diamond.png width="20%">
 </p>
 
-This is a Python program to massively gather information about exposure limits and physical properties from different publicly-available sources:
+This is a Python script to massively gather information about exposure limits and physical properties from different publicly-available sources:
 
 | Organization | Data source| Information | Website |
 | ------------- | ------------- | ------------- | ------------- |
